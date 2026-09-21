@@ -1,7 +1,7 @@
 # Emotiv Public Datasets
 
 A curated index of publicly available EEG datasets recorded with Emotiv headsets
-(EPOC, EPOC+, EPOC X, EPOC Flex, Insight).
+(14-channel EPOC+/EPOC X, 32-channel EPOC Flex, 5-channel Insight or 2-channel MN8).
 
 Full details for each dataset — including task description, publication citation,
 channel count, other modalities, and license — are in [`emotiv-datasets.csv`](emotiv-datasets.csv).
