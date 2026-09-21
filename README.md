@@ -84,9 +84,6 @@ or open an issue with the dataset link.
 ## Disclaimer
 
 Entries are compiled from public sources. Some fields (license, country,
-publication) are marked "Unknown" or "verify" where no clear source was found —
+publication) are marked "Unknown". Please "verify" where no clear source was found —
 please open an issue/PR if you can confirm one.
 
-## License
-
-[Add your license here]
