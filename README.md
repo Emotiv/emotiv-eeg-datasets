@@ -78,8 +78,8 @@ channel count, other modalities, and license — are in [`emotiv-datasets.csv`](
 
 ## Contributing
 
-Found a dataset that's missing? Open a PR adding a row to `datasets.csv`,
-or open an issue with the dataset link.
+Found a dataset that's missing? Open a PR adding a row to `emotiv-datasets.csv`,
+or open an issue with the dataset link, or e-mail us!
 
 ## Disclaimer
 
