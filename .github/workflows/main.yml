@@ -21,7 +21,7 @@ jobs:
           python-version: "3.x"
 
       - name: Regenerate README table
-        run: python scripts/update_readme_table.py
+        run: python update_readme_table.py
 
       - name: Commit changes
         run: |
